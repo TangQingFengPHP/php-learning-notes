@@ -1,30 +1,20 @@
-/vendor/
-node_modules/
-npm-debug.log
-yarn-error.log
+# 忽略所有子项目的 vendor 目录
+**/vendor/
 
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+# 忽略所有子项目的环境变量文件
+**/.env
 
-# Laravel 5 & Lumen specific
-public/storage
-public/hot
+# 忽略所有子项目的日志
+**/*.log
+**/storage/
+**/runtime/
 
-# Laravel 5 & Lumen specific with changed public path
-public_html/storage
-public_html/hot
+# 忽略 Node.js 相关
+**/node_modules/
 
-storage/*.key
-.env
-Homestead.yaml
-Homestead.json
-/.vagrant
-.phpunit.result.cache
+# 忽略 IDE 配置
+**/.idea/
+**/.vscode/
 
-/public/build
-/storage/pail
-.env.backup
-.env.production
-.phpactor.json
-auth.json
+# 忽略 PHPStorm 的 `.iml` 文件
+**/*.iml
