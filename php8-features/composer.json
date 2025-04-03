@@ -5,7 +5,8 @@
       "App\\ConstructorPropertyPromotion\\": "constructor-property-promotion",
       "App\\MixedType\\": "mixed-type",
       "App\\Match\\": "match",
-      "App\\NullSafe\\": "nullsafe"
+      "App\\NullSafe\\": "nullsafe",
+      "App\\NamedArguments\\": "named-arguments"
     }
   }
 }
