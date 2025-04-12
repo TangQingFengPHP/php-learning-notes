@@ -6,7 +6,8 @@
       "App\\MixedType\\": "mixed-type",
       "App\\Match\\": "match",
       "App\\NullSafe\\": "nullsafe",
-      "App\\NamedArguments\\": "named-arguments"
+      "App\\NamedArguments\\": "named-arguments",
+      "App\\NewStringFunction\\": "new-string-function"
     }
   }
 }
