@@ -8,7 +8,8 @@
       "App\\NullSafe\\": "nullsafe",
       "App\\NamedArguments\\": "named-arguments",
       "App\\NewStringFunction\\": "new-string-function",
-      "App\\ThrowExpression\\": "throw-expression"
+      "App\\ThrowExpression\\": "throw-expression",
+      "App\\Enum\\": "enum"
     },
     "files": [
       "helpers.php"
