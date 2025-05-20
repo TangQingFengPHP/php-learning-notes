@@ -9,7 +9,8 @@
       "App\\NamedArguments\\": "named-arguments",
       "App\\NewStringFunction\\": "new-string-function",
       "App\\ThrowExpression\\": "throw-expression",
-      "App\\Enum\\": "enum"
+      "App\\Enum\\": "enum",
+      "App\\Miscellaneous\\": "miscellaneous"
     },
     "files": [
       "helpers.php"
