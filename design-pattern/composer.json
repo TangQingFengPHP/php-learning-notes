@@ -1,0 +1,19 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\Singleton\\": "singleton",
+      "App\\Factory\\": "factory",
+      "App\\Builder\\": "builder",
+      "App\\Adapter\\": "adapter",
+      "App\\Decorator\\": "decorator",
+      "App\\Proxy\\": "proxy",
+      "App\\Observer\\": "observer",
+      "App\\Strategy\\": "strategy",
+      "App\\Template\\": "template",
+      "App\\Chain\\": "chain"
+    }
+  },
+  "require": {
+    "ext-openssl": "*"
+  }
+}
